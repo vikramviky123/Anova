@@ -7,7 +7,7 @@ from scipy.stats import f_oneway
 from scipy.stats import f
 
 
-def oneWayAnova(df: pd.DataFrame):
+def oneWayAnova(df: pd.DataFrame) -> None:
     """The function Conducts Test for One Way Anova
 
     Args:
@@ -60,3 +60,5 @@ def oneWayAnova(df: pd.DataFrame):
         print(
             f"HENCE, We Accept Null Hypothesis------> with {100-alpha*100}% confidence all means are Equal")
     print("-"*100)
+
+    return None
