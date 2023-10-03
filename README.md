@@ -1,5 +1,5 @@
 # Anova
-Anova from Scratch
+**ONE WAY ANOVA  from Scratch**
 
 ## Objective
 * The objective of this project is to create a function for ONE WAY ANOVA Test from scratch with numpy and pandas.
