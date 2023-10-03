@@ -13,7 +13,8 @@ Anova from Scratch
 
 ## Hypothesis testing
 
-H0 :  All means are not equal
-Ha :  Atleast two population means are not equal
+**H0 :  All means are not equal**
+
+**Ha :  Atleast two population means are not equal**
 
 ![Alt text](image.png)
